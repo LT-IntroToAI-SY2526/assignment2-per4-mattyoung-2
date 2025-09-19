@@ -10,7 +10,7 @@ This assignment is about learning and applying the while loop and iterating thro
 4. Complete the reflection problems below
 5. Push your code to github for grading
 
-## Reflection Questions
+## Reflection Questions  
 1. What was difficult for you while completing the match function?
 
 
