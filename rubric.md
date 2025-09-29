@@ -22,12 +22,12 @@ Remember: This assignment builds the foundation for our movie chatbot - focus on
 | Criteria | Points Possible | Points Earned | Comments |
 |----------|----------------|---------------|----------|
 | **Programming Implementation** | | | |
-| Match Function Logic | 4 | | |
-| Test Cases Passing | 3 | | |
+| Match Function Logic | 4 | 4 | |
+| Test Cases Passing | 3 | 2 | You didn't delete the line that says "delete this line", so none of the asserts would pass.  See me if this is ever the case and I would be able to fix this very quickly. |
 | **Reflection & Understanding** | | | |
-| Programming Challenge Reflection | 1.5 | | |
-| Application Understanding | 1.5 | | |
-| **TOTAL** | **10** | | |
+| Programming Challenge Reflection | 1.5 | 1.0 |  |
+| Application Understanding | 1.5 | 1.0 | |
+| **TOTAL** | **10** | 8 | For both of your reflection responses, please go into more detail.  When you describe these things, it helps you to better understand the concept. |
 
 ---
 
